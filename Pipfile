@@ -13,6 +13,7 @@ matplotlib = "*"
 voila = "*"
 seaborn = "*"
 jupyter-contrib-nbextensions = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.8"
