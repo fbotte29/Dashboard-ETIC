@@ -14,6 +14,8 @@ voila = "*"
 seaborn = "*"
 jupyter-contrib-nbextensions = "*"
 plotly = "*"
+plotly-express = "*"
+plotly-graph-objects = "*"
 
 [requires]
 python_version = "3.8"
